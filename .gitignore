@@ -1,0 +1,13 @@
+/build/
+/out/
+/CMakeUserPresets.json
+/.vs/
+/.idea/
+__pycache__/
+*.bin
+*.dll
+*.exe
+*.lib
+*.pdb
+*.exp
+*.log
