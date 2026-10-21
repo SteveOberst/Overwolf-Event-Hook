@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.2.0](https://github.com/SteveOberst/Overwolf-Hook/compare/v0.1.0...v0.2.0) (2026-10-21)
+
+
+### ⚠ BREAKING CHANGES
+
+* add passive state access and broaden project to Overwolf Hook
+
+### Features
+
+* add passive state access and broaden project to Overwolf Hook ([c850718](https://github.com/SteveOberst/Overwolf-Hook/commit/c8507181029619ba6953b5cf419a74e51be35eba))
+
 ## 0.1.0 (2026-10-21)
 
 
